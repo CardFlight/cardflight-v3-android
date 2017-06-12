@@ -12,6 +12,10 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 
 ## Change Log
 
+#### v3.6
+* Support for FDO Pre-Authorizations with Restaurant Merchant Accounts
+* Bug fixes
+
 #### v3.5.5
 * Bug fixes
 
